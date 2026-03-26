@@ -1,0 +1,5 @@
+{
+  "name": "Samithi Management System",
+  "description": "A comprehensive management system for Samithi organizations with member tracking, income/expense management, and transaction history.",
+  "requestFramePermissions": ["camera"]
+}
